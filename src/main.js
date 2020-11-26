@@ -37,8 +37,8 @@ console.log(app.convertir(2000),"Euros");
 console.log("");
 
 console.log("Funcion costo por kilometro: ");
-console.log("Kilometros: 40  Pesos:",app.costoRenta(30));
-console.log("Kilometros: 80  Pesos",app.costoRenta(78));
+console.log("Kilometros: 40  Pesos:",app.costoRenta(40));
+console.log("Kilometros: 80  Pesos",app.costoRenta(80));
 console.log("Kilometros: 150 Pesos:",app.costoRenta(150));
-console.log("Kilometros: 200 Pesos:",app.costoRenta(240));
+console.log("Kilometros: 200 Pesos:",app.costoRenta(200));
 console.log("");
