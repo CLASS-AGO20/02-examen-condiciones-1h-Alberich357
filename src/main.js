@@ -32,8 +32,8 @@ export default class App {
 let app = new App();
 
 console.log("Funcion convertir pesos: ");
-console.log(app.convertir(1300),"Dolares");
-console.log(app.convertir(2500),"Euros");
+console.log(app.convertir(1850),"Dolares");
+console.log(app.convertir(2000),"Euros");
 console.log("");
 
 console.log("Funcion costo por kilometro: ");
