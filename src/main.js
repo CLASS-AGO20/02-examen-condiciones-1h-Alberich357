@@ -9,7 +9,7 @@ export default class App {
         else if(pesos >= 2000){
             resultado = pesos/EURO;
         }
-        return resultado;
+        return resultado.toFixed(2);
     }
     costoRenta(kilometros){
         let resultado;
